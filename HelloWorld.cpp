@@ -10,5 +10,7 @@ int main()
 
 	std::cout << "Real time change bruh!";
 
+	std::cout << "Get some";
+
 	return 0;
 }
