@@ -8,8 +8,6 @@ int main()
 
 	std::cout << "Second commit!";
 
-	std::cout << "Real time change bruh!";
-
 	std::cout << "Get some";
 
 	return 0;
