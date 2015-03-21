@@ -8,5 +8,7 @@ int main()
 
 	std::cout << "Second commit!";
 
+	std::cout << "Real time change bruh!";
+
 	return 0;
 }
